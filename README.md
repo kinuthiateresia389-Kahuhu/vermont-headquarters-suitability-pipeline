@@ -34,3 +34,7 @@ An end-to-end spatial data engineering project completed inside ArcGIS Pro to de
 - **Objective:** Ran advanced regional growth algorithms to analyze suitability surfaces, successfully drawing a highlighted vector polygon bounding the absolute highest-scoring 200 acres for the facilities deployment.
 
 ![Final Optimal Site Localization](4_final_optimal_site_localization.jpeg)
+
+---
+### 📫 Enterprise Allocations & Consulting Contracts
+To deploy, scale, or integrate this automated predictive AI pipeline for your organization, retain my systems engineering stack directly through [My Upwork Console](https://www.upwork.com/freelancers/~014e56546866817167?mp_source=share).
